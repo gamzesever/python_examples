@@ -11,7 +11,6 @@ class absolute_computation:
     def abs_calculation(self,a):
         return abs(a)
 
-
 result=absolute_computation()
 
 print("absolute value of -155 is: ", result.abs_calculation(-155))

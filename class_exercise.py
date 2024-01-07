@@ -227,14 +227,6 @@ class FindPair:
 
 a= FindPair([1,2,4,7], 10)
 
-#pair solution is not correct!!!!!!!!!!
-print("result:", a.pair_solution())
-
-print("if sum< target" , a.sub_totals_max)
-print("if sum> target",a.sub_totals_min)
-print("if sum=target",a.sub_totals_equal)
-print("grand total result correct :) --->", a.grandTotal)
-
 
 
 

@@ -128,10 +128,6 @@ a = myClass.one_items()
 print(myClass.oneitemset)
 print(a)
 
-#print("birliler", Subsets(sett).one_items())
-#print("ikililer", Subsets(sett).two_items())
-#print("burası print ediyor...", Subsets(sett).three_items())
-
 
 
 
